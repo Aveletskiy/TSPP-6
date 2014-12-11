@@ -8,4 +8,5 @@
 	prop: "yo",
 		prop: function(){}
 			};
+			////////////
 alert(obj);
